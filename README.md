@@ -42,4 +42,4 @@ docker compose up -d
 - \q
 - exit
 - docker compose run --rm rails bundle exec rails db:chatwoot_prepare
-- docker compose up
+- docker compose up -d
