@@ -20,6 +20,10 @@ En el .env, en lugar de: FRONTEND_URL=http://0.0.0.0:3000
 Debe ir: FRONTEND_URL=http://IP-V4-AQUI:3000
 
 
+# Ejecución en segundo plano
+
+docker compose up -d
+
 # Errores comunes
 
 --> vector de postgress
