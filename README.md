@@ -11,7 +11,7 @@ docker compose up -d
 Ver en "localhost:3000"
 
 
-# Actulizar en .env 
+# Actualizar en .env 
 
 IPV4 del "FRONTEND"
 
