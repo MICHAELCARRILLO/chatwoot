@@ -2,6 +2,8 @@
 
 git clone https://github.com/jmlcas/chatwoot
 
+cd chatwoot
+
 #Ejecutar primero este comando
 
 docker compose run --rm rails bundle exec rails db:chatwoot_prepare
