@@ -1,6 +1,6 @@
 # chatwoot git
 
-git clone https://github.com/jmlcas/chatwoot
+git clone https://github.com/MICHAELCARRILLO/chatwoot
 
 cd chatwoot
 
