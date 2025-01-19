@@ -11,7 +11,15 @@ docker compose up -d
 Ver en "localhost:3000"
 
 
-## Errores comunes
+# Actulizar en .env 
+
+IPV4 del "FRONTEND"
+
+En el .env, en lugar de: FRONTEND_URL=http://0.0.0.0:3000
+Debe ir: FRONTEND_URL=http://<IP-V4-AQUI>:3000
+
+
+# Errores comunes
 
 --> vector de postgress
 
